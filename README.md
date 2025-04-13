@@ -10,4 +10,4 @@ Through the dashboard we analyzed spending patterns, transaction trends, and cus
 Not only that we used slicers in the excel to filter out data and understand them more.
 With a user-friendly layout, the dashboard enhances data-driven decision-making for financial analysis and monitoring.
 
-MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1WXgOYghxj3tygRHcumPq1iQy5g03mGN5/edit?usp=sharing&ouid=117350978346748343189&rtpof=true&sd=true
+MS EXCEL PROJECT FILE: https://1drv.ms/x/s!AsNgr5PIDc1HnldlBIB1pC96zuh0?e=LMPBgl
